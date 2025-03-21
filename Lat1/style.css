@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+header h1{
+    color: aqua;
+    margin: 0px;
+}
+section h1{
+    color: blueviolet;
+}
